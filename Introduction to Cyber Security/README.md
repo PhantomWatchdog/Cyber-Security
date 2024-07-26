@@ -2,6 +2,6 @@ The Cyber Security environment can be abstract at first and be challenging to kn
 
 This introduction will explore differents topics :
 
-- Discover Offensive Security
-- Discover Defensive Security
+- Offensive Security
+- Defensive Security
 - Careers in Cyber
